@@ -1,5 +1,5 @@
 from __future__ import annotations  # isort:skip
-
+__Version__ = "2.2.3"
 import quart.flask_patch.app  # isort:skip
 import quart.flask_patch.cli  # isort:skip # noqa: F401
 import quart.flask_patch.globals  # isort:skip # noqa: F401
